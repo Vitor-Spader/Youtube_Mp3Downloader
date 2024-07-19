@@ -1,0 +1,5 @@
+pip:
+  -yt-dlp
+system programs:
+  -tkinter
+  -ffmpeg
